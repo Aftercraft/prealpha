@@ -11,7 +11,7 @@
     <br/>
     <br/>
     <a href="https://github.com/Aftercraft/core-prealpha/issues">Report Bug</a>
-    .
+    •
     <a href="https://github.com/Aftercraft/core-prealpha/issues">Request Feature</a>
   </p>
 </p>
@@ -79,3 +79,5 @@ Contributions are what make the open source community such an amazing place to b
 ## Acknowledgements
 
 * [ShaanCoding](https://github.com/ShaanCoding/)
+* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
+* [ImgShields](https://shields.io/)
