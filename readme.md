@@ -16,7 +16,12 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/Aftercraft/core-prealpha/total) ![Contributors](https://img.shields.io/github/contributors/Aftercraft/core-prealpha?color=dark-green) ![Issues](https://img.shields.io/github/issues/Aftercraft/core-prealpha) ![License](https://img.shields.io/github/license/Aftercraft/core-prealpha)
+<div style="text-align:center">
+  <img src="https://img.shields.io/github/downloads/Aftercraft/core-prealpha/total" alt="Downloads" />
+  <img src="https://img.shields.io/github/contributors/Aftercraft/core-prealpha?color=dark-green" alt="Contributors" />
+  <img src="https://img.shields.io/github/issues/Aftercraft/core-prealpha" alt="Issues" />
+  <img src="https://img.shields.io/github/license/Aftercraft/core-prealpha" alt="License" />
+</div>
 
 ## Table Of Contents
 
@@ -36,7 +41,6 @@ Aftercraft is a Minecraft modset in a post-apocalyptic scenario. This is the Cor
 Aftercraft Core includes:
 * A research system
 * Tool and armor forging
-* Better farming and food
 
 ## Built With
 
