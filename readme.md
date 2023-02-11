@@ -16,7 +16,7 @@
   </p>
 </p>
 
-<div align="center">![Downloads](https://img.shields.io/github/downloads/Aftercraft/core-prealpha/total) ![Contributors](https://img.shields.io/github/contributors/Aftercraft/core-prealpha?color=dark-green) ![Issues](https://img.shields.io/github/issues/Aftercraft/core-prealpha) ![License](https://img.shields.io/github/license/Aftercraft/core-prealpha)</div>
+<div align="center"> ![Downloads](https://img.shields.io/github/downloads/Aftercraft/core-prealpha/total) ![Contributors](https://img.shields.io/github/contributors/Aftercraft/core-prealpha?color=dark-green) ![Issues](https://img.shields.io/github/issues/Aftercraft/core-prealpha) ![License](https://img.shields.io/github/license/Aftercraft/core-prealpha) </div>
 
 ## Table Of Contents
 
