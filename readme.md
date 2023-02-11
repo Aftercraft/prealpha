@@ -78,7 +78,4 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Acknowledgements
 
-* [ShaanCoding](https://github.com/ShaanCoding/)
-* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
-* [ImgShields](https://shields.io/)
-* [Textcraft](https://textcraft.net/)
+See copyright disclaimer at [the Aftercraft website](https://aftercraft.github.io).
