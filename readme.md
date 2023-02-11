@@ -74,6 +74,7 @@ Contributions are what make the open source community such an amazing place to b
 ## Authors
 
 * **[Nekosis](https://github.com/Nekosis/)** - *Development team*
+* **[obamination](https://github.com/obamination/)** - *Development team*
 
 ## Acknowledgements
 
