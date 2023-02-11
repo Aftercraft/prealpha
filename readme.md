@@ -16,12 +16,12 @@
   </p>
 </p>
 
-<div style="text-align:center">
-  <img src="https://img.shields.io/github/downloads/Aftercraft/core-prealpha/total" alt="Downloads" />
-  <img src="https://img.shields.io/github/contributors/Aftercraft/core-prealpha?color=dark-green" alt="Contributors" />
-  <img src="https://img.shields.io/github/issues/Aftercraft/core-prealpha" alt="Issues" />
-  <img src="https://img.shields.io/github/license/Aftercraft/core-prealpha" alt="License" />
-</div>
+<p align="center">
+  <a href="https://img.shields.io/github/downloads/Aftercraft/core-prealpha/total"><img alt="Downloads" src="https://img.shields.io/github/downloads/Aftercraft/core-prealpha/total"></a>
+  <a href="https://img.shields.io/github/contributors/Aftercraft/core-prealpha?color=dark-green"><img alt="Contributors" src="https://img.shields.io/github/contributors/Aftercraft/core-prealpha?color=dark-green"></a>
+  <a href="https://img.shields.io/github/issues/Aftercraft/core-prealpha"><img alt="Issues" src="https://img.shields.io/github/issues/Aftercraft/core-prealpha"></a>
+  <a href="https://img.shields.io/github/license/Aftercraft/core-prealpha"><img alt="License" src="https://img.shields.io/github/license/Aftercraft/core-prealpha"></a>
+</p>
 
 ## Table Of Contents
 
