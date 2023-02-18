@@ -77,9 +77,9 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
-* **[Nekosis](https://github.com/Nekosis/)** - *definitely not a furry*
-* **[obamination](https://github.com/obamination/)** - *Development team*
-* **[Paochok](https://github.com/Paochok/)** - *Development team*
+* **[Nekosis](https://github.com/Nekosis/)** - *well, i guess he made a music disc*
+* **[obamination](https://github.com/obamination/)** - *Fun fact: I'm the only person who's done anything.*
+* **[Paochok](https://github.com/Paochok/)** - *bruh he did absolutely nothing*
 
 ## Acknowledgements
 
