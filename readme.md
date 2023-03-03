@@ -77,9 +77,9 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
-* **[Nekosis](https://github.com/Nekosis/)** - *Development team*
-* **[obamination](https://github.com/obamination/)** - *Development team*
-* **[Paochok](https://github.com/Paochok/)** - *Development team*
+* **[Nekosis](https://github.com/Nekosis/)** - *Development team* (made music disc)
+* **[obamination](https://github.com/obamination/)** - *Development team* (did everything else)
+* **[Paochok](https://github.com/Paochok/)** - *Development team* (made ideas)
 
 ## Acknowledgements
 
