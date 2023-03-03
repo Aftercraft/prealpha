@@ -65,7 +65,6 @@ Contributions are what make the open source community such an amazing place to b
 * If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/Aftercraft/core-prealpha/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/Aftercraft/core-prealpha/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
 
 ### Creating A Pull Request
 
@@ -77,9 +76,9 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
-* **[Nekosis](https://github.com/Nekosis/)** - *Development team* (made music disc)
-* **[obamination](https://github.com/obamination/)** - *Development team* (did everything else)
-* **[Paochok](https://github.com/Paochok/)** - *Development team* (made ideas)
+* **[Nekosis](https://github.com/Nekosis/)** - *Development team*
+* **[obamination](https://github.com/obamination/)** - *Development team*
+* **[Paochok](https://github.com/Paochok/)** - *Development team*
 
 ## Acknowledgements
 
