@@ -45,7 +45,7 @@ Aftercraft Core includes:
 ## Built With
 
 * IntelliJ IDEA Community Edition
-* Oracle JDK 17
+* Eclipse Temurin 17
 
 ## Build Instructions
 
