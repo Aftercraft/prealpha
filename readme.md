@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/Aftercraft/core-prealpha">
-    <img src="https://github.com/Aftercraft/core-prealpha/blob/main/images/logo.png?raw=true" alt="Logo">
+  <a href="https://github.com/Aftercraft/prealpha">
+    <img src="https://github.com/Aftercraft/prealpha/blob/main/images/logo.png?raw=true" alt="Logo">
   </a>
 
   <h3 align="center">Aftercraft (Pre-Alpha)</h3>
@@ -10,17 +10,17 @@
     A post-apocalyptic mod for Minecraft. Not the final release.
     <br/>
     <br/>
-    <a href="https://github.com/Aftercraft/core-prealpha/issues">Report Bug</a>
+    <a href="https://github.com/Aftercraft/prealpha/issues">Report Bug</a>
     •
-    <a href="https://github.com/Aftercraft/core-prealpha/issues">Request Feature</a>
+    <a href="https://github.com/Aftercraft/prealpha/issues">Request Feature</a>
   </p>
 </p>
 
 <p align="center">
-  <a href="https://img.shields.io/github/downloads/Aftercraft/core-prealpha/total"><img alt="Downloads" src="https://img.shields.io/github/downloads/Aftercraft/core-prealpha/total"></a>
-  <a href="https://img.shields.io/github/contributors/Aftercraft/core-prealpha?color=dark-green"><img alt="Contributors" src="https://img.shields.io/github/contributors/Aftercraft/core-prealpha?color=dark-green"></a>
-  <a href="https://img.shields.io/github/issues/Aftercraft/core-prealpha"><img alt="Issues" src="https://img.shields.io/github/issues/Aftercraft/core-prealpha"></a>
-  <a href="https://img.shields.io/github/license/Aftercraft/core-prealpha"><img alt="License" src="https://img.shields.io/github/license/Aftercraft/core-prealpha"></a>
+  <a href="https://img.shields.io/github/downloads/Aftercraft/prealpha/total"><img alt="Downloads" src="https://img.shields.io/github/downloads/Aftercraft/prealpha/total"></a>
+  <a href="https://img.shields.io/github/contributors/Aftercraft/prealpha?color=dark-green"><img alt="Contributors" src="https://img.shields.io/github/contributors/Aftercraft/prealpha?color=dark-green"></a>
+  <a href="https://img.shields.io/github/issues/Aftercraft/prealpha"><img alt="Issues" src="https://img.shields.io/github/issues/Aftercraft/prealpha"></a>
+  <a href="https://img.shields.io/github/license/Aftercraft/prealpha"><img alt="License" src="https://img.shields.io/github/license/Aftercraft/prealpha"></a>
 </p>
 
 ## Table Of Contents
@@ -36,11 +36,7 @@
 
 ## About The Project
 
-Aftercraft is a Minecraft modset in a post-apocalyptic scenario. This is the Core mod, the basis for all other mods in the set.
-
-Aftercraft Core includes:
-* A research system
-* Tool and armor forging
+Aftercraft is a Minecraft modset in a post-apocalyptic scenario.
 
 ## Built With
 
@@ -62,7 +58,7 @@ The roadmap is currently in a private document between the developers.
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/Aftercraft/core-prealpha/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/Aftercraft/prealpha/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
 
