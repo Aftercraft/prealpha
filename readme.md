@@ -4,10 +4,10 @@
     <img src="https://github.com/Aftercraft/core-prealpha/blob/main/images/logo.png?raw=true" alt="Logo">
   </a>
 
-  <h3 align="center">Aftercraft: Core (Pre-Alpha)</h3>
+  <h3 align="center">Aftercraft (Pre-Alpha)</h3>
 
   <p align="center">
-    The core of the Aftercraft modset. Not the final release.
+    A post-apocalyptic mod for Minecraft. Not the final release.
     <br/>
     <br/>
     <a href="https://github.com/Aftercraft/core-prealpha/issues">Report Bug</a>
