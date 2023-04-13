@@ -76,9 +76,9 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
-* **[Nekosis](https://github.com/Nekosis/)** - *Development team* (ost maker)
-* **[obamination](https://github.com/obamination/)** - *Development team* (main texture artist/developer)
-* **[Paochok](https://github.com/Paochok/)** - *Development team* (ideas man)
+* **[Nekosis](https://github.com/Nekosis/)** - *Development team* (OST Composer)
+* **[obamination](https://github.com/obamination/)** - *Development team* (Main Texture Artist, Main Developer)
+* **[Paochok](https://github.com/Paochok/)** - *Development team* (Coordinator and Product Manager)
 
 ## Acknowledgements
 
