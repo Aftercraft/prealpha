@@ -40,8 +40,7 @@ Aftercraft is a Minecraft modset in a post-apocalyptic scenario.
 
 ## Built With
 
-* IntelliJ IDEA Community Edition
-* Eclipse Temurin 17
+* MCreator 2023.1 with bundled JDK
 
 ## Build Instructions
 
