@@ -1,3 +1,5 @@
+# AFTERCRAFT IS DISCONTINUED
+
 <br/>
 <p align="center">
   <a href="https://github.com/Aftercraft/prealpha">
